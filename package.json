@@ -1,0 +1,17 @@
+{
+  "name": "@throwaway96/node-load-cert-dir",
+  "version": "0.0.1",
+  "description": "loads PEM certificates from a directory",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": "github:/throwaway96/node-cert-loader.git",
+  "author": "throwaway96",
+  "license": "AGPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/throwaway96/node-load-cert-dir/issues"
+  },
+  "homepage": "https://github.com/throwaway96/node-load-cert-dir"
+}

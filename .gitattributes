@@ -1,0 +1,8 @@
+* text=auto
+
+*.js text
+*.json text
+*.md text
+COPYING text
+.gitignore text
+.gitattributes text
